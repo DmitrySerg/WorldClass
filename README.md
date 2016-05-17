@@ -12,3 +12,5 @@ Data:
   * Attendence
   * Freezes
   * Communication
+
+Final score - 0.9846
