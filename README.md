@@ -13,4 +13,16 @@ Data:
   * Freezes
   * Communication
 
-Final score - 0.9846
+All the data tables were merged into one, after cleaning, transforming and feature engineering. 
+
+Models:
+- XGB
+- Neaural Network
+- Random forest
+- Naive Bayes
+- k-NN
+- SVM
+
+Models were tuned and optimized. Final prediction was made via ensebmling. Weighted average prediction method was used.
+
+Final score on validation - 0.9846
