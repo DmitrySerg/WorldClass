@@ -1,5 +1,5 @@
 # WorldClass
-Microsoft-Forbes data analysis competition (which we *won!*)
+Microsoft-Forbes data analysis competition (*spoiler*: we won!)
 
 Predicting, whether a client is going to prolong the term of the contract or not
 
