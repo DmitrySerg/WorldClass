@@ -1,7 +1,9 @@
 # WorldClass
-Microsoft-Forbes data analysis competition
+Microsoft-Forbes data analysis [competition](http://www.forbes.ru/sp/microsoft/) 
 
-Predicting, whether a client is going to prolong the term of the contract or not
+In collaboration with [Julia Petropavlovskaya](https://github.com/JuliaPetropavlovskaya)
+
+Predicting, whether a client is going to prolong the term of the contract or not 
 
 
 Metrics - AUC ROC 
